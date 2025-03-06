@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Брокер 1961</string>
+    <string name="single_player_game_label">Одиночная игра</string>
+    <string name="exit_game_label">Выход</string>
+    <string name="redirect_activity_is_missing_message">Отсутствует перенаправляющая активность!</string>
+    <string name="about_text">
+Покупайте и продавайте акции. Играя картами рыночных действий, стратегически манипулируйте ценами в свою пользу и на погибель ваших противников. Победите, имея больше всего денег в наличных и акциях после того, как была сыграна последняя карта. Но будьте осторожны: если все ваши оставшиеся акции обрушатся, возможно, вы будете исключены из игры еще до ее окончания.
+\n\n
+Первоначально опубликован в 1961 году как "Брокер" корпорацией Spencer-Murray из Свартмор, Пенсильвания.
+\n\n
+Оригинальная коробка белая, с черными буквами и логотипом, очень простая, скучная и неинтересная. Тем не менее, этот малоизвестный тайтл был довольно ценным, учитывая ограниченный выбор игр в то время.
+\n\n
+В 1967 году он был переиздан немецкой фирмой Otto Maier Verlag, которая является предшественником Ravensburger Spieleverlag GmbH Verlag. Последовали многочисленные переиздания (1972, 1977 и другие), в том числе как минимум одно, где правила были на немецком, английском и итальянском языках. Он также издавался в серии Ravensburger Casino.
+Список компонентов для этих изданий: 160 акций, 68 карт рыночных действий, 4 маркера цен, игровые деньги, игровое поле.
+\n\n
+Издание 1983 года (9-е издание) от Ravensburger Spieleverlag GmbH немного изменяет название на Börsenspiel вместо Das Börsenspiel и существенно меняет оригинальные правила. Хотя этот набор хорошо спроектирован и намного приятнее для глаз, оригинальная скучная версия имела более крупные (размера обычной игральной колоды) карты действий. Был добавлен дополнительный набор из 18 "рисковых" карт, заменяющих 18 рыночных карт, которые действуют как карты событий, немедленно влияющие на изменения на рынке. Они заставляют игрока, который их вытягивает, сыграть их вместо карты рынка, создавая хаотический эффект, который некоторым игрокам может не понравиться. Версия для Android была реализована Мартином Костадиновым. Это школьный проект для окончания 12 класса.</string>
+    <string name="help_text">
+Фишки размещаются на доске, чтобы указать, что каждая акция стоит $100 за акцию. Игроки получают начальный банк в $300.
+\n\n
+Карты действий на рынке разделены на три стопки: карты по $100, карты "Двойной", и стопки по $40 и $60.
+\n\n
+Игроки получают на руки 2 карты по $100, 3 карты "Двойной" и 5 смешанных карт по $40 и $60. Но то, что отличает "Брокера" от остальных, - это инновационный подход к использованию этих карт действий на рынке - каждая карта действия имеет МНОЖЕСТВО ПРОТИВОПОЛОЖНЫХ значений, которые срабатывают ОДНОВРЕМЕННО!
+\n\n
+Первым ходит дилер. На ход игрока он МОЖЕТ сначала купить или продать акции на доске по их текущей цене. Затем этот игрок ДОЛЖЕН сыграть карту рыночного действия и соответствующим образом изменить цены акций. После этого игрок МОЖЕТ снова купить или продать акции. Это завершает ход, и игра переходит к следующему игроку. Один ключевой момент: хотя вы можете купить акции компании и сыграть карту, чтобы увеличить их стоимость, ИЛИ продать акции компании и сыграть карту, чтобы уменьшить их стоимость, вы НЕ МОЖЕТЕ купить или продать акции этой компании в следующую линию.
+\n\n
+Игра продолжается, пока не будут сыграны все карты рыночных действий, розданные игрокам. Затем игроки продают оставшиеся акции банку по окончательной цене, указанной на доске. Игрок с наибольшим количеством денег побеждает!
+\n\n
+В "Брокере" игроки имеют возможность манипулировать рынком, покупать и продавать акции по выгодным ценам, прежде чем сыграть карту и получить выгоду впоследствии.</string>
+    <string name="new_game_menu">Новая игра</string>
+    <string name="help_menu">Помощь</string>
+    <string name="about_menu">О видеоигре</string>
+    <string name="buy_sell_menu">Купить/Продать</string>
+    <string name="play_card_menu">Сыграть карту</string>
+    <string name="end_turn_menu">Завершить ход</string>
+    <string name="exit_menu">Выход</string>
+    <string name="played_cards_menu">Сыгранные карты</string>
+    <string name="player_report_menu">Отчёт игрока</string>
+    <string name="end_report_menu">Завершить отчёт</string>
+    <string name="no_selected_company_text">Нет выбранной компании!</string>
+    <string name="turn_is_not_ending_text">Ход не завершается!</string>
+    <string name="game_finished_text">Игра завершена!</string>
+    <string name="card_is_not_played_text">Карта не сыграна!</string>
+    <string name="trading_is_not_done_text">Торговля не завершена!</string>
+    <string name="save_game_menu">Сохранить</string>
+    <string name="load_game_menu">Загрузить</string>
+    <string name="game_not_started_text">Игра не началась!</string>
+    <string name="finish_trading_text">Завершить торговлю</string>
+    <string name="urgent_sell_text">Срочная продажа</string>
+    <string name="amount_needed_text">Необходимая сумма: </string>
+    <string name="amount_risen_text">Сумма выросла: </string>
+    <string name="sell_more_text">Вы должны продать больше акций!</string>
+    <string name="multiplayer_game_label">Многопользовательская игра</string>
+    <string name="join_game_label">Присоединиться к игре</string>
+    <string name="host_game_label">Создать игру</string>
+    <string name="playersDoneText">Готово</string>
+    <string name="startMultiplayerText">Начать</string>
+    <string name="mac_address_of_the_device_is_unknown_text">MAC-адрес устройства неизвестен!</string>
+    <string name="wi_fi_is_not_enabled_text">Wi-Fi не включен!</string>
+    <string name="wi_fi_is_busy_text">Wi-Fi занят!</string>
+    <string name="wi_fi_internal_error_text">Внутренняя ошибка Wi-Fi!</string>
+    <string name="wi_fi_peer_to_peer_is_not_supported_text">Одноранговый Wi-Fi не поддерживается!</string>
+    <string name="wi_fi_unknown_error_text">Неизвестная ошибка Wi-Fi!</string>
+    <string name="host_connection_is_not_possible_text">Невозможно установить соединение с хостом!</string>
+    <string name="cash_label">Наличные:</string>
+    <string name="incorrect_trading_information_text">Неверная информация о торговле!</string>
+    <string name="start_new_game_text">Начать новую игру!</string>
+    <string name="computer_label">Компьютер</string>
+    <string name="trading_is_not_done_for_the_following_companies_message">"Торговля не завершена для следующих компаний: "</string>
+    <string name="you_have_to_do_sales_and_to_use_the_finish_button_text">Вы должны совершить продажи и использовать кнопку "Завершить"!</string>
+</resources>
